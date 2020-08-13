@@ -1,0 +1,55 @@
+header {
+	
+	background:black;
+	height:60px;
+	
+}
+
+header ul li {
+	
+	float:left;
+	font-size:20px;
+}
+
+header ul {
+	
+	position:absolute;
+	left:350px;
+	
+}
+
+header ul li a {
+	
+	padding:20px;
+	display:block;
+	color:#eee;
+}
+
+header ul li a:hover {
+	
+	text-decoration:none;
+	color:white;
+	background:dodgerblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
